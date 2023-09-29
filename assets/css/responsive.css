@@ -1,0 +1,144 @@
+@media (max-width:2880px){
+    .music {bottom: 90px;}
+    .offcanvas.offcanvas-end{width: 500px;}
+
+}
+
+
+@media(max-width:1399px){
+    .offcanvas.offcanvas-end{width: 450px;}
+    .forget-btn::before {left: 6px;width: 50px;}
+    .forget-btn::after{right: 6px;width: 50px;}
+    .app-navbar .time {padding: 0px 55px;}
+    .hero-section h1 {font-size: 35px;padding: 30px 0;}
+    .circle-3{right: 45px;}
+    .song-name img {margin-left: 37px;}
+    .song-name h5{font-size: 20px;}
+    .song-name p {font-size: 13px;}
+    .song-title {margin: -15px -19px;}
+    .audio.green-audio-player {width: 306px;}
+    .play-buttons {left: 37px;}
+    .vision-btn a {right: 17%;font-size: 14px;}
+    .about-model img {width: 40%;}
+    .about-details h2{font-size: 30px}
+    .about-details p {font-size: 12px;}
+    .feature-title h2 {font-size:35px;padding-bottom: 120px;}
+    .feature-icon i {padding-top: 0;font-size: 25px;}
+    .feature-icon img { width: 30px;}
+    .feature-detalis h3 {font-size: 15px;}
+    .frame-phone img {top: -300px;right: 15px;}
+    .frame-footer-1 img {width: 520px;top: 290px;right: 0;}
+    .frame-footer img {width: 400px;top: 303px;left: 70px;}
+    .app-model img {width: 55%;bottom: 160px;}
+    .app-details h2{font-size: 18px;}
+    .app-details p {font-size: 11px;}
+    .user-testimonials p {font-size: 15px;}
+    .title h2 {font-size: 30px;}
+    .title p {font-size: 13px;}
+
+}
+
+
+@media(max-width:1199px){
+    .app-navbar .time {padding: 0px 30px;}
+    .navbar-toggler-2 i {font-size: 15px;}
+    .forget-btn::before {left: 4px;width: 30px;}
+    .forget-btn::after{right: 4px;width: 30px;}
+    .hero-section h1 {font-size: 30px;padding: 30px 0;}
+    .circle-3{right: 65px;}
+    .navbar-brand-2 {font-size: 13px;}
+    .form-control {width: 80%;padding:0;}
+    .song-name {padding: 30px 0;margin: 0px -21px;}
+    .music {bottom: 141px;}
+    .song img {width: 200px; margin: 6px 0px;}
+    .song-name i {margin-right: 80px;}
+    .song-name img {margin-left: 20px;}
+    .song-name h5{font-size: 15px;}
+    .song-name p {font-size: 9px;}
+    .song-title {margin: -7px -20px;}
+    .audio.green-audio-player {width: 306px; padding-right: 68px;}
+    .play-buttons {left: 20px;}
+    .vision-btn a {right: 17%;font-size: 12px;}
+    .audio.green-audio-player .total-time {left: 71%;}
+    .audio.green-audio-player svg{width: 16px; height: 22px;}
+    .audio.green-audio-player .play-pause-btn {width: 55px;height: 55px;line-height: 1;}
+    .previous-btn, .next-btn {font-size: 18px;height: 40px;width: 40px;}
+    .about-model img {width: 40%;}
+    .about-details h2{font-size: 30px}
+    .about-details p {font-size: 12px;}
+    .feature-title h2 {font-size: 30px;padding-bottom: 120px;}
+    .feature-detalis p {font-size: 8px;}
+    .feature-icon i {padding-top: 0;font-size: 25px;}
+    .feature-icon img { width: 30px;}
+    .feature-detalis h3 {font-size: 12px;}
+    .frame-phone img {top: -265px;right: 15px;}
+    .frame-footer-1 img {width: 540px;top: 229px;right: 10px;}
+    .frame-footer img {width: 390px;top: 237px;left: 35px;}
+    .app-model img {width: 48%;bottom: 180px;}
+    .app-details h2{font-size: 15px;}
+    .app-details p{font-size: 10px;}
+    .user-testimonials p{font-size: 9px;}
+    .title h2 {font-size: 25px;}
+    .title p {font-size: 13px;}
+    .mobile {width: 450px;}
+
+}
+
+
+@media(max-width:1024px){
+    .vision-btn a {right: 13%;font-size: 9px;}
+    .title p {font-size: 9px;}
+    .mobile {width: 370px;}
+    .menu ul li a, footer p {font-size: 7px;}
+}
+
+
+@media (max-width:767px){
+    .app-navbar .time {padding: 0px 30px;}
+    .navbar-toggler-2 i {font-size: 15px;}
+    .forget-btn::before {left: 4px;width: 30px;}
+    .forget-btn::after{right: 4px;width: 30px;}
+    .hero-section h1 {font-size: 30px;padding: 30px 0;}
+    .circle-3{right: 65px;}
+    .navbar-brand-2 {font-size: 13px;}
+    .form-control {width: 80%;padding:0;}
+    .song-name {padding: 30px 0;margin: 0px -21px;}
+    .music {bottom: 141px;}
+    .song img {width: 200px; margin: 6px 0px;}
+    .song-name i {margin-right: 80px;}
+    .song-name img {margin-left: 20px;}
+    .song-name h5{font-size: 15px;}
+    .song-name p {font-size: 9px;}
+    .song-title {margin: -7px -20px;}
+    .audio.green-audio-player {width: 306px; padding-right: 68px;}
+    .play-buttons {left: 20px;}
+    .vision-btn a {right: 17%;font-size: 12px;}
+    .audio.green-audio-player .total-time {left: 71%;}
+    .audio.green-audio-player svg{width: 16px; height: 22px;}
+    .audio.green-audio-player .play-pause-btn {width: 55px;height: 55px;line-height: 1;}
+    .previous-btn, .next-btn {font-size: 18px;height: 40px;width: 40px;}
+    .about-model img {width: 60%;top: 65%;}
+    .about-details h2{font-size: 28px;text-align: center;}
+    .about-details p {font-size: 12px;text-align: center;}
+    .feature-title h2 {font-size: 30px;padding-bottom: 60px;}
+    .feature-detalis p {font-size: 11px;text-align: center;}
+    .feature-icon i {padding-top: 0;font-size: 25px;margin: 0 240px;}
+    .feature-icon img {width: 30px;margin: 0 240px;}
+    .feature-detalis h3 {font-size: 12px;text-align: center;}
+    .frame-phone img {top: 243px;right: 15px;}
+    .frame-footer-1 img {width: 540px;top: 800px;right: 10px;}
+    .frame-footer img {width: 390px;top: 810px;left: 60px;}
+    .about-app{padding: 400px 0;}
+    .app-model img {width: 70%;bottom: 0;}
+    .app-details h2{font-size: 15px;}
+    .app-details p{font-size: 10px;}
+    .user-testimonials p{font-size: 8px;}
+    .mobile {width: 360px;}
+    .mb-hide{ display:none; }
+    .dsk-hide{display: block;}  
+    .feature-section {padding: 220px 0px;}
+    .view-btn{display: none;}
+    .title h2{font-size: 25px;}
+    .title p{font-size: 10px;}
+    footer {margin: 0px;}
+}
